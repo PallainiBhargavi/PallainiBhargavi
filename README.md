@@ -3,25 +3,26 @@
 <h3 align="center">🚀 Aspiring Tech Professional | Building Skills in  Python, Java, SQL | Aspiring IT & Business Operations Professional | Open to Work </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Web+Development;Cloud+Learner;Always+Learning+New+Technologies&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=B.Tech+Graduate;Always+Learning+New+Technologies&center=true&width=500&height=50">
 </p>
 
 ## 🧑‍💻 About Me
 - 🎓 B.Tech CSE (Data Science), SRIT (2022-2026)  
-- 📊 CGPA: **8.9**  
-- 💡 Strong in Programming 
-- 📍 Andhra Pradesh, India  
+- 📊 CGPA: **8.9**   
+- 📍 Andhra Pradesh
 - 📍 Open to opportunities in: Hyderabad, Bengaluru, Chennai
 
 ---
-## 🛠️ Tech Stack
+
+## 🛠️ Tech Stack & Skills
 
 <table>
   <tr>
     <td><b>💻 Programming</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25"/> Python &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25"/> Java
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25"/> Java &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25"/> JavaScript
     </td>
   </tr>
 
@@ -29,25 +30,72 @@
     <td><b>🌐 Web Development</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25"/> HTML &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25"/> CSS &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25"/> JavaScript
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25"/> CSS
     </td>
   </tr>
-  
-   <tr>
-  <td><b>☁️ Tools & Cloud</b></td>
-  <td>
-    <img src="https://skillicons.dev/icons?i=aws" height="25"/> AWS &nbsp;&nbsp;
-    <img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" height="25"/> GitHub
-  </td>
-</tr>
 
-<tr>
-  <td><b>🗄️ Databases</b></td>
-  <td>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25"/> SQL &nbsp;&nbsp;
-      </td>
-</tr>
+  <tr>
+    <td><b>🗄️ Databases</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25"/> SQL &nbsp;&nbsp;
+      Database Management
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>☁️ Tools & Cloud</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws" height="25"/> AWS &nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=github" height="25"/> GitHub &nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=git" height="25"/> Git &nbsp;&nbsp;
+      SAP ABAP Cloud
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>📊 Data & Analytics</b></td>
+    <td>
+      MS Excel &nbsp;&nbsp; Data Analysis &nbsp;&nbsp;
+      Data Validation &nbsp;&nbsp; Data Accuracy &nbsp;&nbsp;
+      Reporting &nbsp;&nbsp; Quality Checking
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>💼 Business & Operations</b></td>
+    <td>
+      Business Analysis &nbsp;&nbsp; Documentation &nbsp;&nbsp;
+      Data Entry &nbsp;&nbsp; Record Maintenance &nbsp;&nbsp;
+      Process Coordination &nbsp;&nbsp; Problem-Solving
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>🎧 Customer Support</b></td>
+    <td>
+      Customer Service &nbsp;&nbsp; Query Resolution &nbsp;&nbsp;
+      Email Support &nbsp;&nbsp; Issue Identification &nbsp;&nbsp;
+      Communication &nbsp;&nbsp; Active Listening
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>🧰 Productivity Tools</b></td>
+    <td>
+      MS Word &nbsp;&nbsp; MS PowerPoint &nbsp;&nbsp;
+      Google Sheets &nbsp;&nbsp; Google Docs &nbsp;&nbsp;
+      Google Workspace
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>⭐ Professional Skills</b></td>
+    <td>
+      Time Management &nbsp;&nbsp; Adaptability &nbsp;&nbsp;
+      Quick Learning &nbsp;&nbsp; Team Collaboration &nbsp;&nbsp;
+      Attention to Detail &nbsp;&nbsp; Multitasking
+    </td>
+  </tr>
 </table>
 
 ---
