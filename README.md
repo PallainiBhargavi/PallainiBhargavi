@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi, I'm Pallaini Bhargavi</h1>
-<h3 align="center">🚀 Aspiring Tech Professional | Building Skills in Software, Data & Cloud</h3>
+<h3 align="center">🚀 Aspiring Tech Professional | Building Skills in  Python, Java, SQL | Aspiring IT & Business Operations Professional | Open to Work </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Web+Development;Cloud+Learner;Always+Learning+New+Technologies&center=true&width=500&height=50">
@@ -9,11 +9,9 @@
 ## 🧑‍💻 About Me
 - 🎓 B.Tech CSE (Data Science), SRIT (2022-2026)  
 - 📊 CGPA: **8.9**  
-- 💡 Strong in Programming
-- 🌱 Currently learning **Backend Development & Cloud**  
+- 💡 Strong in Programming 
 - 📍 Andhra Pradesh, India  
-- 💼 Looking for **Tech roles**
-- 📍 Open to opportunities in: Bengaluru, Hyderabad, Chennai
+- 📍 Open to opportunities in: Hyderabad, Bengaluru, Chennai
 
 ---
 ## 🛠️ Tech Stack
@@ -57,21 +55,18 @@
 ## 💼 Internship Experience
 
 ### ✍️ Content Writer Intern - Atavishaala | Remote (Jan 2026 - Apr 2026)
-- Created structured and engaging content based on research and requirements
-- Enhanced content quality through editing, proofreading, and formatting for better clarity
-
-
----
-
-### 💻 AWS Data Engineering Virtual Intern, AICTE - Edu Skills (AWS Academy) | Remote Jul 2025 - Sep 2025 
-- Completed a 10-week virtual internship focused on data engineering concepts using AWS cloud services
-- Gained hands-on exposure to data storage, processing, and basic data pipeline workflows
-- Developed understanding of scalable data solutions and cloud-based architectures
-
+- Completed assigned writing tasks by prioritizing work and managing deadlines throughout a three-month
+remote internship.
+- Edited and proofread content to maintain accuracy, clarity, and alignment with project requirements and
+style guidelines.
+- Researched topics and verified information using credible sources to produce accurate, research-backed
+content.
+- Followed content guidelines and incorporated revisions to improve the quality and readability of written
+deliverables.
 
 ---
 
-## 🚀 Projects
+## 🚀 Academic Project
 
 ### 🔐 Secure Data Hiding Using Calendar Heatmap Steganography ( Oct 2025 - Apr 2026 )
 Tech: Java, Cyber Security, Cryptography, Steganography 
@@ -84,7 +79,9 @@ Tech: Java, Cyber Security, Cryptography, Steganography
 ## 🏆 Certifications
 - AWS Cloud Development - Amazon Web Services May 2025
 - Google Cloud Foundations - Google Cloud Oct 2024
-
+- Introduction to generative AI and agents — Microsoft
+- Python — Hacker Rank
+- Content Marketing Certified — HubSpot Academy
 ---
 
 ## 📊 GitHub Stats
