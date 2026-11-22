@@ -135,8 +135,8 @@ Tech: Java, Cyber Security, Cryptography, Steganography
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pallaini-Bhargavi&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pallaini-Bhargavi&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PallainiBhargavi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PallainiBhargavi&theme=tokyonight" />
 </p>
 
 ---
